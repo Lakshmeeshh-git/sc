@@ -10,6 +10,7 @@ package com.timbuchalka;
  * Contact author at:  http://timbuchalka.com
  * 
  */
+//hi stockitem
 public class StockItem implements Comparable<StockItem> {
     private final String name;
     private double price;
